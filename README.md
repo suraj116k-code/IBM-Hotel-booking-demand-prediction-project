@@ -59,7 +59,7 @@ The project uses historical hotel booking data that was processed and aggregated
 
 ## Project Workflow
 
-      text
+      
 Historical Booking Data
         ↓
 Data Cleaning & Preprocessing
